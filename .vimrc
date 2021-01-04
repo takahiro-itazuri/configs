@@ -13,6 +13,9 @@ set shiftwidth=4
 " Use the same indent in new line as current line
 set autoindent
 
+" Determine indent by the end of the front line
+set smartindent
+
 " Set backspace
 set backspace=indent,eol,start
 
